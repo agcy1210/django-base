@@ -1,5 +1,5 @@
 # Boilerplate
-It is a bilerplate for django with login and signup features added by default
+It is a boilerplate for django with login and signup features added by default. This repository is made for personal usage.
 
 ## Installation (Mac and Linux)
 

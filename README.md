@@ -1,9 +1,9 @@
 # Boilerplate
-It is a boilerplate for django with login and signup features added by default. This repository is made for personal usage.
+It is a boiler-plate for django with login and signup features added by default. This repository is made for personal usage.
 
 ## Installation (Mac and Linux)
 
-Clone the repo and then run the following commands
+Clone the repository and then run the following commands.
 
 - Create a virtual environment
 ```bash
@@ -20,7 +20,7 @@ pip3 install -r requirements.txt
 
 ## Installation (Windows)
 
-Clone the repo and then run the following commands
+Clone the repository and then run the following commands.
 
 - Create a virtual environment
 ```bash
